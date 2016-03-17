@@ -1,0 +1,2 @@
+# ProgrammingProblems
+contains source code , sample input, other points to think or remember or anything. Main motive here is When explore/find different sample inputs to explore the bugs I found very rewarding. And I thought These sample inputs  will be needed to test our code later(I tried to crash the thiyagu's longest palindrome program by giving unconventional inputs inspired from senthamarai selvan :P ). 
